@@ -1,7 +1,7 @@
 # Bot-Discord
 --Para crear canal o servidor--
 
-1- registramos en discord.com
+1- registramos en www.discord.com
 
 2- clikeamos el boton de nuevo canal y seguimos los pasos para crear y personalizar
 
