@@ -3,14 +3,14 @@
 
 1- registramos en www.discord.com
 
-2- clikeamos el boton de nuevo canal y seguimos los pasos para crear y personalizar
+2- Ingresamos en la opcion de nuevo canal y seguimos los pasos para crear y personalizar
 
 
 --Para crear el bor en discord--
 
 1- Entramos en https://discord.com/developers/applications
 
-2- Clikeamos en la opcion new application donde le pondremos nombre y descripcion a nuestro bot
+2- Entramos en la opcion new application donde le pondremos nombre y descripcion a nuestro bot
 
 3- En la seleccion "Bot" entrar en "Privileged Gateway Intents" activar todos los selectores 
 
