@@ -1,11 +1,13 @@
 # Bot-Discord
-Para crear canal o servidor 
+--Para crear canal o servidor--
+
 1- registramos en discord.com
 
 2- clikeamos el boton de nuevo canal y seguimos los pasos para crear y personalizar
 
 
-Para crear el bor en discord
+--Para crear el bor en discord--
+
 1- Entramos en https://discord.com/developers/applications
 
 2- Clikeamos en la opcion new application donde le pondremos nombre y descripcion a nuestro bot
@@ -21,7 +23,7 @@ Para crear el bor en discord
 7- seleccionamos en servidor o canal donde agregaremos el bot 
 
 
-Para Activar el bot siga los siguientes pasos:
+--Para Activar el bot siga los siguientes pasos:--
 
 1- Descargar archivos de Bot discord
 
